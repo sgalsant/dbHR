@@ -1,3 +1,5 @@
+USE hr;
+
 /*Data for the table regions */
 
 INSERT INTO regions(region_id,region_name) VALUES (1,'Europe');
